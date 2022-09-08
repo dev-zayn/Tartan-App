@@ -1,6 +1,6 @@
 # tartan
 
-A new Flutter project.
+TarTan app is a project designed for Full-Stack Mobile application bootcamp by Computiq and The Station IQ this app developed using Dart language and Flutter framework as a Front-end, and Python -Django- for the Back-end
 
 ## Getting Started
 
